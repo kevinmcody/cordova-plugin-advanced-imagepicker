@@ -5,9 +5,9 @@
 This [Cordova](https://cordova.apache.org) Plugin is for a better (multiple) ImagePicker with more options.
 
 It currently uses [Yummypets/YPImagePicker](https://github.com/Yummypets/YPImagePicker) (Version `5.2.2`) on iOS and 
-[ParkSangGwon/TedImagePicker](https://github.com/ParkSangGwon/TedImagePicker) (Default-Version `1.6.1`) on Android. 
+Kevin M Cody's fork of [ParkSangGwon/TedImagePicker](https://github.com/kevinmcody/TedImagePicker_kevinmcody) (Default-Version `1.6.1`) on Android. 
 
-**This Plugin is in active development!**
+**This Plugin is NOT in active development!**
 
 <!-- DONATE -->
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG_global.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LMX5TSQVMNMU6&source=url)
