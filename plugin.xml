@@ -24,7 +24,7 @@
         <framework src="src/android/build.gradle" custom="true" type="gradleReference"/>
 
         <preference name="ANDROID_IMAGE_PICKER_VERSION" default="1.6.1" />
-        <framework src="io.github.ParkSangGwon:tedimagepicker:$ANDROID_IMAGE_PICKER_VERSION"/>
+        <framework src="io.github.kevinmcody:TedImagePicker_kevinmcody:$ANDROID_IMAGE_PICKER_VERSION"/>
     </platform>
 
     <platform name="ios">
