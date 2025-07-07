@@ -21,7 +21,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import kevinmcody.tedimagepicker.builder.TedImagePicker;
+import gun0912.tedimagepicker.builder.TedImagePicker;
 
 public class AdvancedImagePicker extends CordovaPlugin {
 
