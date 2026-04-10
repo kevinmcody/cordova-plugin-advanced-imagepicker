@@ -145,7 +145,7 @@ import YPImagePicker
             }
         }
         let result:CDVPluginResult = CDVPluginResult(status: CDVCommandStatus_OK, messageAs: array);
-        self.commandDelegate.send(result, callbackId: _callbackId)
+        self.commandDelegate.send(result, callbackId: _callbackId ?? <#default value#>)
     }
 
     func encodeImage(image: UIImage, asBase64: Bool, asJpeg: Bool) -> String {
@@ -192,7 +192,7 @@ import YPImagePicker
                     "code": error.rawValue,
                     "message": message
             ]);
-            self.commandDelegate.send(result, callbackId: callbackId)
+            self.commandDelegate.send(result, callbackId: callbackId ?? <#default value#>)
         }
     }
 
